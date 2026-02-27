@@ -1,4 +1,4 @@
-p"""
+"""
 Beecrowd 1001 - Extremamente Básico
 
 Leia 2 valores inteiros e armazene-os nas variáveis A e B.
