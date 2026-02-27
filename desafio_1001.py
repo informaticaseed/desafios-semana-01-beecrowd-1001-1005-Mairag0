@@ -20,4 +20,4 @@ b = int(input())
 x = a + b
 
 # Saída formatada conforme a especificação
-print(f"X = {x}")
+print("X = {x}")
